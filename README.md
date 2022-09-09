@@ -1,4 +1,4 @@
-### VBA_Challenge
+## VBA_Challenge
 
 # Overview of Project:
 A friend of mine, named Steve who just graduated with his finance degree. Steve's parents would like to be Steve first clients and invest in Green Energy Stock called DAQO.
