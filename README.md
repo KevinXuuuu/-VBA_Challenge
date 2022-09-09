@@ -19,7 +19,12 @@ By comparing and analysis the chart above, we could easily identify "ENPH" outpe
 Moreover, we managed to keep the code running time less than 1s for 15 stock's performance for the whole 2017 and 2018 years.
 
 # Summary
+The outcome was great, yet there are more area could be improve, such as shorten the code and reduce code run time, comparing the outcome after generating return for 2017 and 2018. 
 
-# What are the advantages or disadvantages of refactoring code?
+Some of the advantages of refactoring code were to improving the codes(reduce code run time/shorten the codes),having a better understanding of the code weer used.
+but, refactoring code could ruined the code and break the whole module if we didn't save the original version.
 
-# How do these pros and cons apply to refactoring the original VBA script?
+It's not easy to refactoring the code and make it run again, but as long as we save the code in different version once a while, we should be good to go.
+We could run the code to see which version runs better and we could go back to the earlier version that run faster code and start coding from their.
+
+
